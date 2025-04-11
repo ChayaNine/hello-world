@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-I like cookies.
+Hello, I'm student of ICT, Mahidol
